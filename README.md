@@ -4,8 +4,7 @@ Description of the approach : https://blog.goodaudience.com/heartbeat-classifica
 
 Requirement : Keras, tensorflow, numpy 
 
-# Heartbeat Classification : Detecting abnormal heartbeats and heart diseases from
-ECGs
+# Heartbeat Classification : Detecting abnormal heartbeats and heart diseases from ECGs
 
 ![](https://cdn-images-1.medium.com/max/1600/1*QLO4ZfqK44tmBzpsOx2VjQ.jpeg)
 <span class="figcaption_hack">Figure 1 :
